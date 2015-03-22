@@ -1,0 +1,4 @@
+permalink: '/blog/:year/:title/'
+base: http://necia.github.io
+name: A Jekyll Terrifying Blog
+author: Necia
