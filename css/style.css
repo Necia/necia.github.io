@@ -66,13 +66,13 @@ a:hover, #posts-list a:hover {
 /* Font families are groupped here - individual styles are below */
 
 body, #posts-list h3 {
-	font-family: 'Fenix', Georgia, serif;
+	font-family: DINPro1, Arial, "Century Gothic", AppleGothic, sans-serif;
 }
 h1, h2, h3, h4, h5, h6, .section-subtitle, #main-nav a, .button, figcaption, #posts-list time, .main-footer, .projects-list span {
-	font-family: DINPro1, 'Helvetica Neue', Arial, sans-serif;
+	font-family: DINPro1, Arial, "Century Gothic", AppleGothic, sans-serif;
 }
 #main-title, #main-subtitle {
-	font-family: DINPro1, 'Helvetica Neue', Arial, Georgia, serif;
+	font-family: DINPro1, Arial, "Century Gothic", AppleGothic, sans-serif;
 }
 
 /* Basic typographic elements */
@@ -102,7 +102,7 @@ ol {
 pre {
 	background: none repeat scroll 0 0 #F7F7F7;
 	border: 5px solid #E9E9E9;
-	font-family: Consolas, Courier, Monaco, monospace;
+	font-family: DINPro1, Arial, "Century Gothic", AppleGothic, sans-serif;
 	font-size: 12px;
 	line-height: 19px;
 	overflow-x: auto;
@@ -144,7 +144,7 @@ sup {
 }
 
 var {
-   font-family: Consolas, Courier, Monaco, monospace;
+   font-family: DINPro1, Arial, "Century Gothic", AppleGothic, sans-serif;
 }
 
 blockquote {
