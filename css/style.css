@@ -69,6 +69,7 @@ a:hover, #posts-list a:hover {
 
 /* Font families are groupped here - individual styles are below */
 
+/*
 body, #posts-list h3 {
 	font-family: DINPro1, Arial, "Century Gothic", AppleGothic, sans-serif;
 }
@@ -78,6 +79,8 @@ h1, h2, h3, h4, h5, h6, .section-subtitle, #main-nav a, .button, figcaption, #po
 #main-title, #main-subtitle {
 	font-family: DINPro1, Arial, "Century Gothic", AppleGothic, sans-serif;
 }
+*/
+
 
 /* Basic typographic elements */
 
