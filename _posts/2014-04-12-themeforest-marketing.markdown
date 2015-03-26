@@ -2,8 +2,8 @@
 layout: post
 title: Panasonic Beauty 愛戀季節
 tags:
-- marketing
-- Panasonic Beauty 愛戀季節
+- 
+- 
 ---
 
 <figure>
