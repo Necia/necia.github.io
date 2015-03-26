@@ -194,6 +194,7 @@ h4 + p {
 #main-title {
 	font-size: 30px;
 	line-height: 52px;
+	letter-spacing:5px;
 	margin-bottom: 5px;
 }
 #main-subtitle {
