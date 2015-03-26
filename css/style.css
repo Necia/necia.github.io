@@ -193,12 +193,12 @@ h4 + p {
 }
 #main-title {
 	font-size: 40px;
-	letter-spacing:20px;
+	letter-spacing:10px;
 	line-height: 52px;
 	margin-bottom: 15px;
 }
 #main-subtitle {
-	font-size: 24px;
+	font-size: 16px;
 	line-height: 32px;
 	font-weight: 400;
 }
