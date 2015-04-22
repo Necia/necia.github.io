@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Perfect cake on a perfect morning
+title: Panasonic 超跑系科技新登場
 tags:
-- free time
+- 
+- 
 ---
 
 <figure>
-	<img src="http://demo.krownthemes.com/jackman/img/blog_2.jpg" alt="Empty pockets">
-	<figcaption>Down the corner</figcaption>
+	<a href="http://www.panasonicbeauty.com.tw/eh-na45/voice" target="_blank">
+	<img src="/img/w4-1.png" alt="Panasonic 超跑系科技新登場 ES-ST37"></a>
+	<img src="/img/w4-2.png" alt="Panasonic 超跑系科技新登場 ES-LV94"></a>
+	<img src="/img/w4-3.png" alt="Panasonic 超跑系科技新登場 ES-RT34"></a>
+	<figcaption>Panasonic 超跑系科技新登場</figcaption>
 </figure> 
-
-One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.
