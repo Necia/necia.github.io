@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 小錢完權證 財富大起飛
+title: 小錢玩權證 財富大起飛
 tags:
 - 
 - 
@@ -8,6 +8,6 @@ tags:
 
 <figure>
 	<a href="http://smart.businessweekly.com.tw/Event/2013/warrant/" target="_blank">
-	<img src="/img/w8.png" alt="小錢完權證 財富大起飛"></a>
-	<figcaption>小錢完權證 財富大起飛</figcaption>
+	<img src="/img/w8.png" alt="小錢玩權證 財富大起飛"></a>
+	<figcaption>小錢玩權證 財富大起飛</figcaption>
 </figure> 
